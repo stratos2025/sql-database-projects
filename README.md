@@ -1,20 +1,23 @@
-# Proyectos y Prácticas de Bases de Datos Relacionales (SQL)
+# Mis Prácticas y Proyectos de SQL
 
-Este repositorio contiene scripts de SQL desarrollo de bases de datos relacionales, diseño de esquemas, inserción de datos y consultas de análisis utilizando **MySQL Workbench**.
+¡Hola! En este repositorio voy recopilando mis ejercicios, proyectos y prácticas de bases de datos relacionales utilizando **SQL** y **MySQL Workbench**.
 
-## Proyectos Incluidos
+El objetivo de este espacio es mostrar mi manejo en el diseño de esquemas, manipulación de datos y elaboración de consultas para resolver problemas prácticos.
 
-### 1. Gestión de Empresa (`empresa_schema.sql` y `empresa_data.sql`)
-- **Descripción:** Definición de tablas relacionales para el control de empleados, departamentos y roles.
-- **Conceptos aplicados:** Claves primarias/foráneas (`PRIMARY KEY`, `FOREIGN KEY`), restricciones (`CONSTRAINTS`) y consultas con `JOINs`.
+## Contenido del Repositorio
 
-### 2. Base de Datos de Streaming (`Netflix_schema.sql` y `Netflix_data.sql`)
-- **Descripción:** Modelo de datos enfocado en un catálogo de contenidos, categorías y usuarios.
-- **Conceptos aplicados:** Filtrado de datos (`WHERE`, `LIKE`), agrupaciones (`GROUP BY`, `HAVING`) y funciones de agregación (`COUNT`, `SUM`, `AVG`).
+### 1. Sistema de Control de Empresa
+- Diseñé las tablas relacionales para gestionar empleados, departamentos y puestos.
+- Utilicé llaves primarias y foráneas para mantener la integridad de los datos, además de realizar consultas con `JOIN` para cruzar información entre tablas.
 
-### 3. Modelo ER de Biblioteca (`DiagramaBiblioteca.png`)
-- **Descripción:** Diagrama entidad-relación para el diseño conceptual y lógico de un sistema de préstamos de libros.
+### 2. Base de Datos Estilo Netflix
+- Creación de un modelo de datos centrado en un catálogo de películas/series, categorías y usuarios.
+- Prácticas de filtrado de información, agrupaciones y cálculo de estadísticas con funciones como `COUNT`, `SUM` y `AVG`.
 
-## Herramientas Utilizadas
-- **Lenguaje:** SQL (ANSI SQL / MySQL)
-- **IDE:** MySQL Workbench
+### 3. Modelo Entidad-Relación de Biblioteca
+- Diagrama que armé para el diseño lógico y conceptual de un sistema de préstamos de libros, definiendo entidades, atributos y relaciones.
+
+
+## Herramientas
+- **Lenguaje:** SQL (MySQL)
+- **Entorno de trabajo:** MySQL Workbench
