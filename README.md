@@ -8,7 +8,7 @@ El objetivo de este espacio es mostrar mi manejo en el diseño de esquemas, mani
 Diseñé las tablas relacionales para gestionar empleados, departamentos y puestos y utilicé llaves primarias y foráneas para mantener la integridad de los datos, además de realizar consultas con "Join" para cruzar información entre tablas.
 
 ### > Base de Datos
-La Creación de un modelo de datos centrado en un catálogo de películas/series, categorías y usuarios, y las prácticas de filtrado de información, agrupaciones y cálculo de estadísticas con funciones como "Count", "Sum" y "AVG".
+Creación de un modelo de datos centrado en un catálogo de películas/series, categorías y usuarios, y las prácticas de filtrado de información, agrupaciones y cálculo de estadísticas con funciones como "Count", "Sum" y "AVG".
 
 ### > Modelo Entidad-Relación de Biblioteca
 Diagrama que armé para el diseño lógico y conceptual de un sistema de préstamos de libros, definiendo entidades, atributos y relaciones.
