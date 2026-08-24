@@ -1,4 +1,4 @@
-# Mis Prácticas y proyectos de SQL y contenido del repositorio
+## Mis Prácticas y proyectos de SQL y contenido del repositorio
 
 En este repositorio voy recopilando mis ejercicios, proyectos y prácticas de bases de datos relacionales utilizando SQL y MySQL Workbench.
 
