@@ -1,10 +1,8 @@
-# Mis Prácticas y Proyectos de SQL
+# Mis Prácticas y proyectos de SQL y contenido del repositorio
 
 En este repositorio voy recopilando mis ejercicios, proyectos y prácticas de bases de datos relacionales utilizando SQL y MySQL Workbench.
 
 El objetivo de este espacio es mostrar mi manejo en el diseño de esquemas, manipulación de datos y elaboración de consultas para resolver problemas prácticos.
-
-# Contenido del Repositorio
 
 ## Sistema de Control de Empresa
 Diseñé las tablas relacionales para gestionar empleados, departamentos y puestos y utilicé llaves primarias y foráneas para mantener la integridad de los datos, además de realizar consultas con `JOIN` para cruzar información entre tablas.
